@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-color: #f4f4f4;
+    background-color: #54cf7d;
   }
   
   .container {
@@ -34,7 +34,7 @@ body {
   
   /* Encabezado */
   header {
-    background: url('fondo-header.jpg') no-repeat center center/cover;
+    background: url('galponHeader.jpg') no-repeat center center/cover;
     color: #fff;
     text-align: center;
     padding: 100px 0;
@@ -43,15 +43,18 @@ body {
   header h1 {
     font-size: 3rem;
     margin-bottom: 10px;
+    background-color: rgba(244, 244, 244, 0.7);
   }
   
   header p {
     font-size: 1.2rem;
+    color: #fff;
+    background-color: rgba(44, 62, 80, 0.7);
   }
   
   /* Sección Sobre Mí */
   #sobre-mi {
-    background-color: #fff;
+    background-color: #f4f4f4;
     padding: 50px 0;
   }
   
@@ -68,7 +71,7 @@ body {
   
   /* Sección Servicios */
   #servicios {
-    background-color: #f4f4f4;
+    background-color: #54cf7d;
     padding: 50px 0;
   }
   
